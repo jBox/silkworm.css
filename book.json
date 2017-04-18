@@ -1,0 +1,18 @@
+{
+    "title": "CSS 手册",
+    "language": "cn",
+    "plugins": [
+        "expandable-chapters",
+        "prism",
+        "-highlight",
+        "search"
+    ],
+    "pluginsConfig": {
+        "expandable-chapters": {},
+        "prism":{
+            "css": [
+                "prismjs/themes/prism-solarizedlight.css"
+            ]
+        }
+    }
+}
